@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+<img width="1507" height="787" alt="Screenshot 2026-04-19 161854" src="https://github.com/user-attachments/assets/3fe86fe4-157b-4d09-8faf-555d7b380c52" />
 1. Layihənin İcmalı (Project Overview)
 Bu layihə uydurma bir kompüter avadanlığı şirkətinin B2B satış məlumatlarını təhlil etmək üçün hazırlanmışdır. Əsas məqsəd satış komandasının performansını izləmək, məhsulların satış səmərəliliyini (Win Rate) qiymətləndirmək və gəlir itkilərinin qarşısını almaq üçün rəhbərliyə interaktiv bir həll təqdim etməkdir.
 
